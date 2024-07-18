@@ -1,1 +1,1 @@
-# seido.github.io
+# Publications made and other writings
