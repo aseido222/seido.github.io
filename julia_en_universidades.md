@@ -10,10 +10,7 @@
 
 ### Resumen
 
-Presentación de las principales características del lenguaje de progra-
-mación Julia y las ventajas de su introducción como herramienta de pro-
-cesamiento, análisis y desarrollo en la carrera de ingeniería en telecomu-
-nicaciones y electrónica.
+Presentación de las principales características del lenguaje de programación Julia y las ventajas de su introducción como herramienta de procesamiento, análisis y desarrollo en la carrera de ingeniería en telecomunicaciones y electrónica.
 
 ***
 
