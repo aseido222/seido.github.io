@@ -37,36 +37,18 @@ En general, los procesos estadísticos en las redes de telecomunicaciones desemp
 
 En la ayuda de este proceso de trabajo la comunidad de profesores y técnicos cuenta con una potente herramienta que a ido evolucionando a través de los años hasta convertirse junto a otras, en un referente de facto. La combinación del lenguaje R y RStudio dota a los profesionales que lo utilizan de una plataforma muy completa.
 
-<image
-  src="rconsole.png"
-  alt="R en modo comando"
-  caption="R en modo comando"
-  width="55" height="55">
-
+![R en modo comando](rconsole.png "R en modo comando")
 
 RStudio es un conjunto de herramientas para trabajar con el lenguaje de programación R, que es un software estadístico y un lenguaje de programación gratuito y de código abierto que se utiliza para el análisis de datos estadísticos[6].
 
  RStudio Desktop es un IDE (entorno de desarrollo integrado) gratuito y de código abierto para R, que mejora la experiencia de programación en R con funciones útiles como completamiento de automático de código, resaltado de sintaxis, vistas previas de gráficos y tablas, y más[6]. Su está organizada para que el usuario pueda ver claramente gráficos, tablas de datos, código R y resultados, todo al mismo tiempo[6]. RStudio, que además de ofrecer una interfaz más fácil de usar R[7], incorpora otros elementos para la creación de documentación y reportes, dígase RMarkdown o Quarto, que permiten la reproducción del análisis y los datos.
 
-<image
-  src="rstudioide.png"
-  alt="Vista general del IDE RStudio Desktop"
-  caption="Vista general del IDE RStudio Desktop">
-
-
-
-Vista general del IDE RStudio Desktop
+![Vista general del IDE RStudio Desktop](rstudioide.png "Vista general del IDE RStudio Desktop")
 
 
 La incorporación en este IDE de elementos para la programación, no solo en R sino también en Python y la incorporación dentro de estos documentos de líneas de código en ambos lenguajes, aumenta las potencialidades para la utilización de todo el conjunto de bibliotecas y aportes de la comunidad científica en el ámbito de la estadística y el análisis de datos, por los estudiantes de telecomunicaciones y los profesionales de esta rama.
 
-<image
-  src="rstudioquarto.png"
-  alt="Creación de un documento con Quarto"
-  caption="Creación de un documento con Quarto">
-
-
-Creación de un documento con Quarto
+![Creación de un documento con Quarto](rstudioquarto.png "Creación de un documento con Quarto")
 
 
 ## Conclusiones
