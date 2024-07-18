@@ -1,6 +1,21 @@
 # Julia en las Universidades
-Msc. Alexey Seisdedo Losa
-2024-08-07
+
+***
+
+**AUTOR:** Msc. Alexey Seisdedo Losa
+**Fecha:** 08 de julio de 2024
+
+***
+
+### Resumen
+
+Presentación de las principales características del lenguaje de progra-
+mación Julia y las ventajas de su introducción como herramienta de pro-
+cesamiento, análisis y desarrollo en la carrera de ingeniería en telecomu-
+nicaciones y electrónica.
+
+***
+
 
 ## La ingeniería en Telecomunicaciones
 
