@@ -1,6 +1,7 @@
 # La Estadística Matemática, R y las Telecomunicaciones
 **AUTOR:** Msc. Alexey Seisdedo Losa
 **Fecha:** 19 de Enero de 2024
+
 ***
 
 ### Resumen
