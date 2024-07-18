@@ -40,7 +40,8 @@ En la ayuda de este proceso de trabajo la comunidad de profesores y técnicos cu
 <image
   src="rconsole.png"
   alt="R en modo comando"
-  caption="R en modo comando">
+  caption="R en modo comando"
+  width="55" height="55">
 
 
 RStudio es un conjunto de herramientas para trabajar con el lenguaje de programación R, que es un software estadístico y un lenguaje de programación gratuito y de código abierto que se utiliza para el análisis de datos estadísticos[6].
